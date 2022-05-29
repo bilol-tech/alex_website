@@ -14,6 +14,20 @@ html {
   font-family: "Raleway", sans-serif;
 }
 
+.main-container a {
+  text-decoration: none;
+  font-size: 19px;
+  margin-top: -5px;
+  margin-left: 12px;
+  color: #9798A5;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.main-container a:hover {
+  color: #fff;
+}
+
 .main-container .second-container {
   width: 78%;
   text-align: center;

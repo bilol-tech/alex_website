@@ -8,6 +8,18 @@ html {
 }
 
 .main-container {
+    a {
+        text-decoration: none;
+        font-size: 19px;
+        margin-top: -5px;
+        margin-left: 12px;
+        color: #9798A5;
+        transition: 0.3s;
+    }
+    a:hover {
+        color: #fff;
+    }
+
     display: flex;
     font-family: "Raleway", sans-serif;
     .second-container {
@@ -178,6 +190,7 @@ html {
             .home-wrapper {
             line-height: 25px;
             display: flex;
+           
                 img {
                     width: 22px;
                 }
@@ -187,6 +200,7 @@ html {
                     margin-left: 12px;
                     color: #9798A5;
                     transition: 0.3s;
+                    
                 }
                 p:hover {
                     color: #fff;

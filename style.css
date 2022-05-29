@@ -1183,7 +1183,7 @@ html {
   height: 30px;
   position: absolute;
   content: "";
-  top: 55.3%;
+  top: 55%;
   left: 16%;
   -webkit-transform: rotate(50deg);
           transform: rotate(50deg);
@@ -1195,7 +1195,7 @@ html {
   height: 30px;
   position: absolute;
   content: "";
-  top: 55.3%;
+  top: 55%;
   left: 49%;
   -webkit-transform: rotate(50deg);
           transform: rotate(50deg);
@@ -1207,7 +1207,7 @@ html {
   height: 30px;
   content: "";
   position: absolute;
-  top: 55.3%;
+  top: 55%;
   left: 82%;
   -webkit-transform: rotate(50deg);
           transform: rotate(50deg);
